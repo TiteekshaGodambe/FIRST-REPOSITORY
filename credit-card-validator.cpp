@@ -28,7 +28,7 @@ int main() {
             break;
         
         else if (!isNumberString(ccNumber)) {
-            cout << "Bad input! ";
+            cout << "Wrong input! ";
             continue;
         }
             
